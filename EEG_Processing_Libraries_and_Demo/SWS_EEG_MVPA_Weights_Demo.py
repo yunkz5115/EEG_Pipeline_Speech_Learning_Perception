@@ -42,7 +42,6 @@ blk_list = ['blk-1','blk-2','blk-3']
 type_list = ['lowband','highband']
 
 #Set MVPA parameters
-permutation_time = 5000
 input_ch = None
 num_participants = 19
 thr = -t.ppf(0.05, num_participants-1)
