@@ -11,3 +11,8 @@ Runtime Environment Requirements (Conda based):
   
 
 Verified only on the aforementioned version.
+
+
+*Note*: The demo data we prepared for code validation exceeds the repository's capacity... 
+
+If you require the demo data, please visit the OSF repository or contact the authors.
